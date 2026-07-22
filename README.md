@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Anshu Bhardwaj 👋
 
-<!--
-**Anshu594/Anshu594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder of CloudFam ☁️
 
-Here are some ideas to get you started:
+Building modern cloud infrastructure, file hosting, and monetization solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Co-Founder of Euonex 🚀
+
+Creating AI-powered business software, automation tools, and cloud services.
+
+---
+
+### 🚀 Current Projects
+
+- ☁️ CloudFam
+- 🚀 Euonex
+- 🤖 Leadz
+- 📱 InstaPrime (Coming Soon)
+
+---
+
+### 💻 Tech Stack
+
+- PHP
+- Laravel
+- Node.js
+- MySQL
+- Redis
+- Linux
+- Docker
+- Cloudflare
+- AWS S3 Compatible Storage
+
+---
+
+### 🌍 Websites
+
+- https://cloudfam.io
+- https://euonex.net
+
+---
+
+> Building products that scale.
