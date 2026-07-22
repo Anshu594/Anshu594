@@ -1,48 +1,42 @@
-<h1 align="center">Hi 👋 I'm Anshu Bhardwaj</h1>
+<div align="center">
 
-<p align="center">
-Founder of <b>CloudFam</b> • Co-Founder of <b>Euonex</b>
-</p>
+# Hi 👋 I'm Anshu Bhardwaj
 
-<p align="center">
-Building cloud infrastructure, AI products & developer tools.
-</p>
+### Founder of CloudFam • Co-Founder of Euonex
 
----
+Building cloud infrastructure, AI products and developer platforms.
 
-### 🚀 Projects
-
-| Project | Status |
-|---------|--------|
-| ☁️ CloudFam | Production |
-| 🚀 Euonex | Production |
-| 🤖 Leadz | Live |
-| 📱 InstaPrime | Coming Soon |
+</div>
 
 ---
 
-### 💻 Stack
+## 🚀 Products
 
-**Languages**
+- ☁️ CloudFam
+- 🚀 Euonex
+- 🤖 Leadz
+- 📱 InstaPrime (Coming Soon)
 
-`PHP` `JavaScript` `SQL`
+---
+
+## 💻 Tech
+
+**Backend**
+
+`PHP` `Node.js`
 
 **Frameworks**
 
-`Laravel`
-`CodeIgniter`
-`CakePHP`
+`Laravel` `CodeIgniter` `CakePHP`
 
 **Databases**
 
-`MySQL`
-`PostgreSQL`
-`Redis`
+`MySQL` `PostgreSQL` `Redis`
 
 **Infrastructure**
 
-`Linux`
-`Docker`
-`Cloudflare`
-`AWS S3`
-`OpenLiteSpeed`
+`Linux` `Docker` `Cloudflare` `AWS S3` `OpenLiteSpeed`
+
+---
+
+> Building products, not just projects.
