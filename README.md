@@ -52,7 +52,7 @@
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Anshu594&theme=dark&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
 
 ---
