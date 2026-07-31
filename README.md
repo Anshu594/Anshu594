@@ -21,7 +21,7 @@
     <td width="50%" valign="top">
       <h3>☁️ <a href="https://cloudfam.io">CloudFam.io</a></h3>
       <p>Enterprise cloud file management, fast multi-CDN distribution, and intelligent 5-tier audience monetization platform for creators & publishers worldwide.</p>
-      <p><b>Tech:</b> PHP 8.3, Node.js, Redis, MySQL, AWS S3, B2, BunnyCDN, Cloudflare Edge</p>
+      <p><b>Tech:</b> PHP 8.3, Node.js, Redis, MySQL, AWS S3, B2, BunnyCDN, Cloudflare Edge, Razorpay, PayPal</p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡️ <a href="https://github.com/EuonexCo">Euonex</a></h3>
@@ -48,9 +48,10 @@
 
 ---
 
-## 📊 GitHub Activity & Streak Analytics
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
+  <p><em>Note: Most of my daily work and contributions are made to private enterprise repositories, including the core codebase for <b><a href="https://github.com/Cloudfam-io/cloudfam-io">CloudFam.io</a></b>.</em></p>
   <br>
   <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
