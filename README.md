@@ -1,70 +1,29 @@
-<div align="center">
+# Anshu Bhardwaj
 
-# 👋 Hi, I'm Anshu Bhardwaj
+Founder at [CloudFam.io](https://cloudfam.io) · Co-Founder at [Euonex](https://euonex.net)
 
-### **Founder of [CloudFam.io](https://cloudfam.io) • Co-Founder of [Euonex](https://github.com/EuonexCo)**
+I build and operate web platforms focused on cloud storage, file sharing, monetization, automation, and backend infrastructure.
 
-*Building scalable cloud infrastructure, high-yield monetization platforms, and developer platforms.*
+## Projects
 
-[![Website](https://img.shields.io/badge/CloudFam-cloudfam.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cloudfam.io)
-[![Organization](https://img.shields.io/badge/Org-Cloudfam--io-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cloudfam-io)
-[![Euonex](https://img.shields.io/badge/Euonex-EuonexCo-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuonexCo)
-[![Telegram](https://img.shields.io/badge/Telegram-@cloudfam__io-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cloudfam_io)
+**CloudFam.io**
+Cloud storage and file sharing platform with publisher monetization and download infrastructure.
 
----
-</div>
+**Euonex**
+Software and infrastructure projects focused on automation, backend systems, and developer tools.
 
-## 🚀 Key Ventures & Platforms
+## Tech
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ <a href="https://cloudfam.io">CloudFam.io</a></h3>
-      <p>Enterprise cloud file management, fast multi-CDN distribution, and intelligent 5-tier audience monetization platform for creators & publishers worldwide.</p>
-      <p><b>Tech:</b> PHP 8.3, Node.js, Redis, MySQL, AWS S3, B2, BunnyCDN, Cloudflare Edge, Razorpay, PayPal</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡️ <a href="https://github.com/EuonexCo">Euonex</a></h3>
-      <p>Next-gen developer infrastructure, Leadz growth automation suite, high-throughput backend architecture, and tech solutions agency.</p>
-      <p><b>Tech:</b> Microservices, Lead Automation, Cloud Architecture, APIs</p>
-    </td>
-  </tr>
-</table>
+**Backend:** PHP, Node.js, REST APIs
+**Database:** MySQL, Redis
+**Cloud & Storage:** AWS S3, Cloudflare, BunnyCDN
+**Frontend:** JavaScript, HTML, CSS, Tailwind CSS
+**Tools:** Git, GitHub Actions, Linux, Composer
 
----
+## Currently Working On
 
-## 🛠 Tech Stack & Skills
+CloudFam platform development, backend systems, monetization infrastructure, performance, and new product development at Euonex.
 
-<div align="center">
+## Links
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | PHP 8+ JavaScript (ES6+) Node.js SQL HTML5/CSS3 Python |
-| **Backend & Cloud** | MySQL Redis AWS S3 Backblaze B2 BunnyCDN Cloudflare REST APIs |
-| **Frontend & UI** | TailwindCSS Vanilla JS Responsive Web Architecture |
-| **DevOps & Tools** | Git GitHub Actions Linux Administration Postman Composer |
-
-</div>
-
----
-
-## 📊 GitHub Activity & Contributions
-
-<div align="center">
-  <p><em>Note: Most of my daily work and contributions are made to private enterprise repositories, including the core codebase for <b><a href="https://github.com/Cloudfam-io/cloudfam-io">CloudFam.io</a></b>.</em></p>
-  <br>
-  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 📫 Get In Touch
-
-- 🌐 **Website**: [cloudfam.io](https://cloudfam.io)
-- 🏢 **Organization**: [@Cloudfam-io](https://github.com/Cloudfam-io)
-- 🏢 **Co-Founded**: [@EuonexCo](https://github.com/EuonexCo)
-- 📢 **Telegram**: [t.me/cloudfam_io](https://t.me/cloudfam_io)
-
-<div align="center">
-  <sub>Designed with precision for Anshu Bhardwaj • Founder @ CloudFam</sub>
-</div>
+[CloudFam](https://cloudfam.io) · [Euonex](https://euonex.net) · [LinkedIn](https://www.linkedin.com/in/anshu594/)
